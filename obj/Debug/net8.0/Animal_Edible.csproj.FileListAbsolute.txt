@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Animal_Edible\bin\Debug\net8.0\Animal_Edible.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Animal_Edible\bin\Debug\net8.0\Animal_Edible.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Animal_Edible\bin\Debug\net8.0\Animal_Edible.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Animal_Edible\bin\Debug\net8.0\Animal_Edible.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Animal_Edible\bin\Debug\net8.0\Animal_Edible.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Animal_Edible\obj\Debug\net8.0\Animal_Edible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Animal_Edible\obj\Debug\net8.0\Animal_Edible.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Animal_Edible\obj\Debug\net8.0\Animal_Edible.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Animal_Edible\obj\Debug\net8.0\Animal_Edible.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Animal_Edible\obj\Debug\net8.0\Animal_Edible.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Animal_Edible\obj\Debug\net8.0\refint\Animal_Edible.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Animal_Edible\obj\Debug\net8.0\Animal_Edible.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Animal_Edible\obj\Debug\net8.0\Animal_Edible.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Animal_Edible\obj\Debug\net8.0\ref\Animal_Edible.dll
